@@ -31,8 +31,7 @@ public class Switch : MonoBehaviour {
 		if (Input.GetKeyDown(KeyCode.G))
 		{
 			camera1.enabled = true;
-			camera2.enabled = false;
+ 	         	camera2.enabled = false;
 			camera3.enabled = true;
-		}
-	}
+		}	}
 }
