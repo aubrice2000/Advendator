@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Adventador\Script\ColorS.cs">
+    <Files>
+      <File FileName="Assets\Adventador\Script\Color5.cs" Line="3" Column="3" />
+      <File FileName="Assets\Adventador\Script\Color1.cs" Line="3" Column="3" />
+      <File FileName="Assets\Adventador\Script\Color2.cs" Line="3" Column="3" />
+      <File FileName="Assets\Adventador\Script\Color3.cs" Line="3" Column="3" />
+      <File FileName="Assets\Adventador\Script\Color4.cs" Line="3" Column="3" />
+      <File FileName="Assets\Adventador\Script\ColorS.cs" Line="2" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
