@@ -11,7 +11,7 @@ public class clickInfo : MonoBehaviour
 	
 	void OnMouseDown()
 	{
-		PopUp = true;
+	 PopUp =  true;
 	}
 	
 	void DrawInfo()
